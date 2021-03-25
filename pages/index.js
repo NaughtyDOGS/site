@@ -2,12 +2,12 @@ import Link from 'next/link';
 
 function Home(){
     return(
-    <ul>
-     <li>em Progreço by naughty</li>
-      <link href="/sobre">
-       <a>Assessa pagina sobre</a>
-      </link>
-    </ul>
+    <div>
+        <h1>em Progreço by naughty</h1>
+        <Link href="/sobre">
+            <a>Assessa pagina sobre</a>
+        </Link>
+    </div>
     )
 }
 export default Home
