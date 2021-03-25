@@ -5,7 +5,9 @@ function Home(){
     <div>
         <h1>em Progreço by naughty</h1>
      <link>
-      <a href="/sobre">Assessa pagina sobre</a>
+      <link href="/sobre">
+       <a>Assessa pagina sobre</a>
+      </link>
      </link>
     </div>
     )
