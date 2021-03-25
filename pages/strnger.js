@@ -4,7 +4,7 @@ function Strnger(){
     return(
     <div>
         <h1>O Virtual Riot Paulista jkkk</h1>
-        <Link href="/Vinison">
+        <Link href="/vinison">
             <a>Acessar pagina do vinison</a>
         </Link>
     </div>
