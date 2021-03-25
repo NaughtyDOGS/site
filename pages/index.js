@@ -4,7 +4,7 @@ function Home(){
     return(
     <div>
      <h1>em Progreço by naughty</h1>
-      <link href="/sobre.js">
+      <link href="/sobre">
        <a>Assessa pagina sobre</a>
       </link>
     </div>
