@@ -7,6 +7,9 @@ function Home(){
         <Link href="/sobre">
             <a>Assessa pagina sobre</a>
         </Link>
+        <Link href="/strnger">
+            <a>Assessa pagina strnger</a>
+        </Link>
     </div>
     )
 }
