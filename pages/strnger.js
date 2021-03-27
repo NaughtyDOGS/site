@@ -3,9 +3,9 @@ import Link from 'next/link';
 function Strnger(){
     return(
     <div>
-        <h1>O Virtual Riot Paulista jkkk</h1>
+        <h1>srrnger O CRIADOR DO COLORBASS</h1>
         <Link href="/vinison">
-            <a>Acessar pagina do vinison</a>
+            <a>PAGINA DO DICIPULO DO strgner</a>
         </Link>
     </div>
     )
